@@ -31,7 +31,7 @@ with st.form(key='student_details'):
     name = st.text_input("Please Enter Your Name",placeholder="Type your name here...")
     # rollNo = st.number_input("Please Enter Your Roll#")
     rollNo = st.number_input(
-    "Enter an integer:", 
+    "Please Enter Your RollNo:", 
     format="%d",       # This specifies that only integers should be accepted
     step=1             # This ensures the input increments by 1
 )
