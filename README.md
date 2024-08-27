@@ -1,2 +1,4 @@
-# Studen_details
-Using Streamlit framework based on python, this is a simple form for students; SQLite is used for DBMS
+# Student_Card_streamlit_App
+## Technologies used:
+* streamlit on front-end
+* SQLite as DBMS
